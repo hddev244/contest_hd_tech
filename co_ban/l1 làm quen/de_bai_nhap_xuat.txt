@@ -1,0 +1,5 @@
+Bài 1: Nhập vào tên và tuổi của bạn, sau đó in ra câu: 'Xin chào <tên>, bạn <tuổi> tuổi.'
+Bài 2: Nhập vào 3 số nguyên, in ra tổng, hiệu, tích, thương của chúng.
+Bài 3: Nhập vào bán kính hình tròn, in ra chu vi và diện tích (làm tròn 2 chữ số thập phân).
+Bài 4: Nhập vào chiều dài và chiều rộng hình chữ nhật, in ra chu vi và diện tích.
+Bài 5: Nhập vào một chuỗi ký tự, in ra chuỗi đó viết hoa và viết thường.
