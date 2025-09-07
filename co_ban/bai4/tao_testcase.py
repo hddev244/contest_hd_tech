@@ -19,11 +19,7 @@ for inp in inputs:
     chu_vi = 2 * (chieu_dai + chieu_rong)
     dien_tich = chieu_dai * chieu_rong
 
-    # Format số (loại bỏ .0 nếu là số nguyên)
-    chu_vi_str = f"{chu_vi:.1f}".rstrip('0').rstrip('.')
-    dien_tich_str = f"{dien_tich:.1f}".rstrip('0').rstrip('.')
-
-    outputs.append(f"Chu vi: {chu_vi_str}\nDiện tích: {dien_tich_str}")
+    outputs.append(f"Chu vi: {chu_vi}\nDiện tích: {dien_tich}")
 
 # Tạo thư mục chứa file test case
 tc_dir = Path("testcase")
